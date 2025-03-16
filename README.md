@@ -7,9 +7,6 @@
 
 - ⚡ Fun fact **Did you know that the first computer "bug" was an actual bug?**
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
