@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A passionate web developer from Sri Lanka. I’m interested in Programming, Graphic Design, Photo & Video editing and Animation.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hana&label=Profile%20views&color=0e75b6&style=flat" alt="hana" /> </p>
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{hana}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
 
 - 🌱 I’m currently learning **HNDIT**
 
 - ⚡ Fun fact **Did you know that the first computer "bug" was an actual bug?**
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,6 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+ 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -28,6 +30,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hana-Haneefa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+## 🐍 A Snake Eating my Contributions Graph
+	
+align="center" alt="GIF" src="[https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirl-hacker&psig=AOvVaw234edUi7rWdT5SgUHj1YhA&ust=1742228304098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICT_8mAj4wDFQAAAAAdAAAAABAo)" />
+
+
 
 
 <!---
