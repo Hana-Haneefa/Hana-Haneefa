@@ -32,7 +32,7 @@
 </p>
 ## 🐍 A Snake Eating my Contributions Graph
 	
-align="center" alt="GIF" src="[https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirl-hacker&psig=AOvVaw234edUi7rWdT5SgUHj1YhA&ust=1742228304098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICT_8mAj4wDFQAAAAAdAAAAABAo)" />
+align="center" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVoaXIycnZwY2pteGQ1MzNkbno4ajM2bDkxZDlveHN1eXlhbWN6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iwgp0wUd7Tr08ea1ml/giphy.gif" />
 
 
 
