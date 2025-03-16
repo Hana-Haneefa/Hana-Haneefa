@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A passionate web developer from Sri Lanka. I’m interested in Programming, Graphic Design, Photo & Video editing and Animation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hana&label=Profile%20views&color=0e75b6&style=flat" alt="hana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hana&label=Profile%20views&color=0e75b6&style=flat" alt="hana" /> </p>
 
 - 🌱 I’m currently learning **HNDIT**
 
