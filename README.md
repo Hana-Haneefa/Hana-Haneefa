@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HNDIT**
 
-- ⚡ Fun fact **Did you know that the first computer "bug" was an actual bug?**
+- ⚡ **Did you know that the first computer "bug" was an actual bug?**
 
  
 ### 🛠 &nbsp;Tech Stack
