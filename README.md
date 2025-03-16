@@ -4,11 +4,14 @@
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{hana}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/YN96HMixmb0IGgefiI/200w.gif?cid=6c09b952oe8bknn2e394e5eqwg6mjmoicp71ai1z73pyiyws&ep=v1_gifs_search&rid=200w.gif&ct=g" />
+
 
 - 🌱 I’m currently learning **HNDIT**
 
 - ⚡ Fun fact **Did you know that the first computer "bug" was an actual bug?**
 
+ 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -21,6 +24,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+
+
  
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -30,9 +35,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hana-Haneefa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-## 🐍 A Snake Eating my Contributions Graph
 	
-align="center" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVoaXIycnZwY2pteGQ1MzNkbno4ajM2bDkxZDlveHN1eXlhbWN6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iwgp0wUd7Tr08ea1ml/giphy.gif" />
 
 
 
