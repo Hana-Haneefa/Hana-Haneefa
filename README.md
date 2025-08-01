@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A passionate web developer from Sri Lanka. I’m interested in Programming, Graphic Design, Photo & Video editing and Animation.</h3>
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{hana}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
  <img align="right" alt="GIF" src="https://media2.giphy.com/media/YN96HMixmb0IGgefiI/200w.gif?cid=6c09b952oe8bknn2e394e5eqwg6mjmoicp71ai1z73pyiyws&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
