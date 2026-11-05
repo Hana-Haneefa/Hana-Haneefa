@@ -1,93 +1,68 @@
-<img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:05122A,100:1572B6&height=140&section=header" />
+<img width="100%" alt="Top" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=6&section=header" />
+<div align="center">
+<pre>
+ _   _    _    _   _    _
+| | | |  / \  | \ | |  / \
+| |_| | / _ \ |  \| | / _ \
+|  _  |/ ___ \| |\  |/ ___ \
+|_| |_/_/   \_\_| \_/_/   \_\
+</pre>
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=560&lines=%3E+whoami+%E2%86%92+web_developer%40sri_lanka;%3E+sudo+learn+--cyber-security;%3E+git+commit+-m+%22build+cool+things%22;%3E+while(alive)+%7B+code();+design();+repeat();+%7D" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Hana</h1>
+```bash
+hana@kali:~$ cat about.txt
+```
+```yaml
+name:      Hana (Hafshina Haneefa)
+location:  Sri Lanka 🇱🇰
+role:      Full-Stack Web Developer
+studying:  HNDIT @ SLIATE Kegalle
+           Cyber Security Professional Certificate @ IIT City Campus
+interests: [Programming, Graphic Design, Photo & Video Editing, Animation]
+building:  Full-stack projects with React + Node.js + MySQL
+status:    PARADOX (book) → coming soon
+fun_fact:  "The first computer bug was an actual bug 🪲"
+```
 
-<p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1572B6&center=true&vCenter=true&width=520&lines=Web+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;HNDIT+Undergraduate;Cyber+Security+Learner;Programmer+%7C+Designer+%7C+Editor" />
-</p>
-
-<h3 align="center">A passionate web developer from Sri Lanka 🇱🇰 — into Programming, Graphic Design, Photo & Video Editing and Animation.</h3>
-
-<br/>
+### `$ ls ~/skills`
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/YN96HMixmb0IGgefiI/200w.gif" />
 
-### 👩‍💻 About Me
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF41)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5&logoColor=00FF41)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=css3&logoColor=00FF41)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=00FF41)
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat-square&logo=vite&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00FF41)
+![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=flat-square&logo=apachenetbeanside&logoColor=00FF41)
+![Maven](https://img.shields.io/badge/-Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=00FF41)
+![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat-square&logo=adobe-photoshop&logoColor=00FF41)
+![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat-square&logo=markdown&logoColor=00FF41)
 
-- 🎓 I'm currently learning **HNDIT** at the Advanced Technological Institute, Kegalle (SLIATE)
-
-- 🔐 Also completing a **Cyber Security Professional Certificate** at IIT City Campus, Colombo
-
-- 🚀 I build full-stack web projects with **React**, **Node.js** and **MySQL**
-
-- 🎨 I love mixing code with design, from UI work to video and animation
-
-- 📖 My book **PARADOX** is coming soon
-
-- ⚡ **Did you know that the first computer "bug" was an actual bug?**
-
-<br/>
-
-### 🛠 Tech Stack
-
-**Languages & Web**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
-
-**Tools & Design**
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apachenetbeanside)
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
-
-### 📂 Featured Projects
-
-| Project | Description | Tech |
+### `$ cat projects.log`
+| Project | Description | Stack |
 | :-- | :-- | :-- |
-| 📚 **BOOKIE** | Full-stack library management system (final-year project) | React, Node.js, MySQL |
-| ⏱️ **FocusForge** | Desktop focus-tracking app | Java, Maven, NetBeans |
-| 🌐 **Portfolio** | Personal portfolio site hosted on GitHub Pages | React, Vite |
+| 📚 **BOOKIE** | Full-stack library management system | React · Node.js · MySQL |
+| ⏱️ **FocusForge** | Desktop focus-tracking app | Java · Maven · NetBeans |
+| 🌐 **Portfolio** | Personal site on GitHub Pages | React · Vite |
 
-<p>
-  <a href="https://github.com/Hana-Haneefa?tab=repositories">👉 See all my repositories</a>
-</p>
+[`$ git log --all`](https://github.com/Hana-Haneefa?tab=repositories) → see all repositories
 
-### 🎯 Currently Focusing On
-
-- Building and polishing full-stack projects
-- Cyber security fundamentals
-- Creating content for my book promotion
-
-### 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/Hana-Haneefa">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-### ⚙️ GitHub Analytics
-
+### `$ ./stats.sh`
 <p align="center">
   <a href="https://github.com/Hana-Haneefa">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hana-Haneefa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="180em" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hana-Haneefa&layout=compact&langs_count=8&theme=algolia" />
-    <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Hana-Haneefa&theme=algolia" />
+    <img height="170em" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hana-Haneefa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=B6FFC8" />
+    <img height="170em" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hana-Haneefa&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00FF41&text_color=B6FFC8" />
+    <img height="170em" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Hana-Haneefa&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=B6FFC8&currStreakLabel=00FF41&sideLabels=B6FFC8&dates=5F8F6E" />
   </a>
 </p>
-
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Hana-Haneefa&label=Profile+Views&color=1572B6&style=flat" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Hana-Haneefa&label=VISITORS&color=00FF41&labelColor=000000&style=flat-square" />
+  <a href="https://github.com/Hana-Haneefa"><img alt="GitHub" src="https://img.shields.io/badge/-%2Fconnect-0D1117?style=flat-square&logo=github&logoColor=00FF41" /></a>
 </p>
-
-<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:05122A&height=100&section=footer" />
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:000000&height=50&section=footer&text=%5B%20connection%20closed%20%5D&fontColor=000000&fontSize=16" />
