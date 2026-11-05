@@ -47,7 +47,7 @@ fun_fact:  "The first computer bug was an actual bug 🪲"
 | Project | Description | Stack |
 | :-- | :-- | :-- |
 | 📚 **BOOKIE** | Full-stack library management system | React · Node.js · MySQL |
-| ⏱️ **FocusForge** | Desktop focus-tracking app | Java · Maven · NetBeans |
+| ⏱️ **FocusForge** | Desktop focus-tracking app | React · Node · Express · MySQL |
 | 🌐 **Portfolio** | Personal site on GitHub Pages | React · Vite |
 
 [`$ git log --all`](https://github.com/Hana-Haneefa?tab=repositories) → see all repositories
