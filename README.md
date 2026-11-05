@@ -10,20 +10,19 @@
 <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=560&lines=%3E+whoami+%E2%86%92+web_developer%40sri_lanka;%3E+sudo+learn+--cyber-security;%3E+git+commit+-m+%22build+cool+things%22;%3E+while(alive)+%7B+code();+design();+repeat();+%7D" />
 </div>
 
-```bash
-hana@kali:~$ cat about.txt
-```
-```yaml
+<pre>
+<b>hana@kali:~$</b> cat about.txt
+
 name:      Hana (Hafshina Haneefa)
 location:  Sri Lanka 🇱🇰
 role:      Full-Stack Web Developer
 studying:  HNDIT @ SLIATE Kegalle
            Cyber Security Professional Certificate @ IIT City Campus
-interests: [Programming, Graphic Design, Photo & Video Editing, Animation]
+interests: [Programming, Graphic Design, Photo &amp; Video Editing, Animation]
 building:  Full-stack projects with React + Node.js + MySQL
 status:    PARADOX (book) → coming soon
 fun_fact:  "The first computer bug was an actual bug 🪲"
-```
+</pre>
 
 ### `$ ls ~/skills`
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/YN96HMixmb0IGgefiI/200w.gif" />
