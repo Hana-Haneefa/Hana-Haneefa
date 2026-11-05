@@ -8,7 +8,7 @@
 <text x="380" y="23" text-anchor="middle" class="c" style="font-size:12px">hana@kali: ~</text>
 <text x="24" y="66"><tspan class="p">hana@kali:~$</tspan><tspan class="v"> cat about.txt</tspan></text>
 <text x="24" y="100" class="k">name:</text>
-<text x="130" y="100" class="v">Hana Haneefa</text>
+<text x="130" y="100" class="v">Hana</text>
 <text x="24" y="124" class="k">location:</text>
 <text x="130" y="124" class="v">Sri Lanka</text>
 <text x="24" y="148" class="k">role:</text>
