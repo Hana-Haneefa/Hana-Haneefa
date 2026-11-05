@@ -1,12 +1,6 @@
 <img width="100%" alt="Top" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=6&section=header" />
 <div align="center">
-<pre>
- _   _    _    _   _    _
-| | | |  / \  | \ | |  / \
-| |_| | / _ \ |  \| | / _ \
-|  _  |/ ___ \| |\  |/ ___ \
-|_| |_/_/   \_\_| \_/_/   \_\
-</pre>
+<img alt="HANA" src="https://raw.githubusercontent.com/Hana-Haneefa/Hana-Haneefa/main/name.svg" /><br/>
 <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=560&lines=%3E+whoami+%E2%86%92+web_developer%40sri_lanka;%3E+sudo+learn+--cyber-security;%3E+git+commit+-m+%22build+cool+things%22;%3E+while(alive)+%7B+code();+design();+repeat();+%7D" />
 </div>
 
@@ -29,7 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00FF41)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=flat-square&logo=apachenetbeanside&logoColor=00FF41)
-![Maven](https://img.shields.io/badge/-Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=00FF41)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat-square&logo=adobe-photoshop&logoColor=00FF41)
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat-square&logo=markdown&logoColor=00FF41)
 
